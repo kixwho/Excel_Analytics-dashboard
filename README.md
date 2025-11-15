@@ -1,5 +1,5 @@
 # Analytics-dashboard-Maven-marketing
-Dataset analysis along with an interactive dashboard.
+Prompt: How to grow Maven's digital revenue?
 
 **How it started**:
 
@@ -9,4 +9,13 @@ Dataset analysis along with an interactive dashboard.
 
 **How it's going**:
 
-<img width="1492" height="788" alt="image" src="https://github.com/user-attachments/assets/34909014-cc51-490b-b45c-39b5fd140029" />
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/f0d03d62-3c9f-44ca-8870-83d4c4aa2332" />
+
+
+
+
+
+**Key recommendations**
+1. Double down on wine-focused online promotions (ex. Bundle with web-only offers)
+2. Cross-sell store buyers online (ex. Using in-store receipts)
+3. Re-think strategies for the underperforming channel and groups (ex. Promote convenience to attract households with kids)
