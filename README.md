@@ -1,5 +1,7 @@
-# Analytics dashboard - Maven Marketing
-Prompt: How to grow Maven's digital revenue?
+<img width="865" height="150" alt="image" src="https://github.com/user-attachments/assets/2cf44cca-9b8a-4425-8dfd-05e59df3bd3e" />
+
+## Prompt
+How to grow Maven's digital revenue?
 
 ## How it started:
 
