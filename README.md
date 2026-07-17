@@ -1,4 +1,4 @@
-<img width="865" height="150" alt="image" src="https://github.com/user-attachments/assets/2cf44cca-9b8a-4425-8dfd-05e59df3bd3e" />
+<img width="804" height="150" alt="image" src="https://github.com/user-attachments/assets/605dd023-c03c-4bc0-970c-2f4122713780" />
 
 ## Prompt
 How to grow Maven's digital revenue?
